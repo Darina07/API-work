@@ -1,0 +1,8 @@
+{
+  "title": "Test",
+  "category": 1,
+  "expected": "sss",
+  "actual": "This is actual ...",
+  "steps_to_reproduce": "",
+  "solution": "I do not know"
+}

@@ -1,0 +1,31 @@
+{
+  "active": 5377031,
+  "active_id": 1,
+  "project_id": 1,
+  "billings": [
+    {
+      "id": 3,
+      "project_id": 2,
+      "project": "XRW project",
+      "billed": "678",
+      "created_on": "2023-03-16 16:19:16",
+      "completed_date": "2023-03-18 16:48:41",
+      "completed": 1,
+      "description": "support app",
+      "created_on_user_timezone" : "2023-03-16 22:19:16",
+      "completed_date_user_timezone" : "2023-03-18 22:48:41"
+    },
+    {
+      "id": 2,
+      "project_id": 1,
+      "project": "Test",
+      "billed": "335",
+      "created_on": "2023-03-16 16:18:37",
+      "completed_date": "2023-03-20 16:43:02",
+      "completed": 1,
+      "description": "Test 123",
+      "created_on_user_timezone": "2023-03-16 22:18:37",
+      "completed_date_user_timezone": "2023-03-20 22:43:02"
+    }
+  ]
+}

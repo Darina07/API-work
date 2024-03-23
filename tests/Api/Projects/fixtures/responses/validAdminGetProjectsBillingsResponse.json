@@ -1,0 +1,12 @@
+[
+  {
+    "project_id": 1,
+    "project": "Test",
+    "billed": "00:43:10"
+  },
+  {
+    "project_id": 2,
+    "project": "XRW project",
+    "billed": "00:11:18"
+  }
+]

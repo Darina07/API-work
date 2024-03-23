@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Today"
+  },
+  {
+    "id": 2,
+    "name": "Yesterday"
+  },
+  {
+    "id": 3,
+    "name": "This week"
+  },
+  {
+    "id": 4,
+    "name": "Last week"
+  },
+  {
+    "id": 5,
+    "name": "This month"
+  },
+  {
+    "id": 6,
+    "name": "Last month"
+  },
+  {
+    "id": 7,
+    "name": "Last 30 days"
+  },
+  {
+    "id": 8,
+    "name": "Last 90 days"
+  },
+  {
+    "id": 9,
+    "name": "Last 12 months"
+  },
+  {
+    "id": 10,
+    "name": "This year"
+  },
+  {
+    "id": 11,
+    "name": "Last year"
+  }
+]

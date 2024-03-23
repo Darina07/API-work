@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Some title",
+    "ticket_type": "Bug Report",
+    "type": 1,
+    "ticket_category": "Technical Support",
+    "category": 1,
+    "created_by": 1,
+    "assignee": 1,
+    "created_on": "2023-03-14 14:27:06"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "ticket_type": "Feature Request",
+    "type": 2,
+    "ticket_category": "Phone Service Support",
+    "category": 2,
+    "created_by": 1,
+    "assignee": 1,
+    "created_on": "2023-03-14 14:27:06"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "ticket_type": "Change Order",
+    "type": 3,
+    "ticket_category": "Digital Marketing Order",
+    "category": 3,
+    "created_by": 2,
+    "assignee": 2,
+    "created_on": "2023-03-14 00:00:00"
+  }
+]

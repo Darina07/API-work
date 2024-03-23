@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "some title",
+    "ticket_type": "Bug Report",
+    "category": "Technical Support",
+    "created_by": "Kaloyan Stoyanov",
+    "assignee": "Kaloyan Stoyanov",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "title 2",
+    "ticket_type": "Feature Request",
+    "category": "Technical Support",
+    "created_by": "Test Test",
+    "assignee": null,
+    "status": "Blocked"
+  }
+]

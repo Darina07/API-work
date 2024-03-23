@@ -1,0 +1,6 @@
+vendor/*
+build/logs/coverage/*
+!build/logs/coverage/noop
+.idea
+coverage.xml
+phpunit

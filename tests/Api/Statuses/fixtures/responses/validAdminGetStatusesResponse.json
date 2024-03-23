@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Open"
+  },
+  {
+    "id": 2,
+    "name": "Blocked"
+  },
+  {
+    "id": 3,
+    "name": "In Progress"
+  },
+  {
+    "id": 4,
+    "name": "Ready for QA"
+  },
+  {
+    "id": 5,
+    "name": "Ready to close"
+  },
+  {
+    "id": 6,
+    "name": "Resolved"
+  },
+  {
+    "id": 7,
+    "name": "Closed"
+  }
+]

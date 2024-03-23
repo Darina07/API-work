@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "username": "kaloyan@hph.io",
+  "email": "kaloyan@hph.io",
+  "nonce": null,
+  "role": 1,
+  "first": "Kaloyan",
+  "last": "Stoyanov",
+  "company_name": null,
+  "created": "2022-04-05 12:17:14",
+  "last_login": null,
+  "activation_status": 1,
+  "activated_on": null,
+  "uuid": "a815a6a2-7d50-11ed-a6c9-f0d4e2e605b0"
+}

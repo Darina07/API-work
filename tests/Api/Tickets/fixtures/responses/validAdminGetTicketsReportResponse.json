@@ -1,0 +1,50 @@
+{
+  "categories": [
+    {
+      "name": "Technical Support",
+      "tickets_number": 2
+    },
+    {
+      "name": "Phone Service Support",
+      "tickets_number": 0
+    },
+    {
+      "name": "Digital Marketing Order",
+      "tickets_number": 1
+    },
+    {
+      "name": "Software Development",
+      "tickets_number": 0
+    }
+  ],
+  "statuses": [
+    {
+      "name": "Open",
+      "tickets_number": 1
+    },
+    {
+      "name": "Blocked",
+      "tickets_number": 1
+    },
+    {
+      "name": "In Progress",
+      "tickets_number": 1
+    },
+    {
+      "name": "Ready for QA",
+      "tickets_number": 0
+    },
+    {
+      "name": "Ready to close",
+      "tickets_number": 0
+    },
+    {
+      "name": "Resolved",
+      "tickets_number": 0
+    },
+    {
+      "name": "Closed",
+      "tickets_number": 0
+    }
+  ]
+}

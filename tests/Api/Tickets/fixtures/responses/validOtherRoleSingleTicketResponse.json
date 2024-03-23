@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "title": "title 2",
+  "type": "Feature Request",
+  "category": "Technical Support",
+  "created_by": "Test Test",
+  "assignee": null,
+  "status": "Blocked",
+  "type_number": 2,
+  "uploads": [],
+  "description": "wwwwwwwww",
+  "progress": [
+    {
+      "id": 3,
+      "ticket_id": 2,
+      "status": "Blocked",
+      "user_id": 2,
+      "user": "Test Test",
+      "added_on": "2023-03-14 22:45:40"
+    },
+    {
+      "id": 4,
+      "ticket_id": 2,
+      "status": "Blocked",
+      "user_id": 2,
+      "user": "Test Test",
+      "added_on": "2023-03-14 22:52:21"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Technical Support",
+        "url": "technical-support",
+        "icon": null
+    },
+    {
+        "id": 2,
+        "name": "Phone Service Support",
+        "url": "phone-support",
+        "icon": null
+    },
+    {
+        "id": 3,
+        "name": "Digital Marketing Order",
+        "url": "marketing-support",
+        "icon": null
+    },
+    {
+        "id": 4,
+        "name": "Software Development",
+        "url": "software-development",
+        "icon": null
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dar Test",
+    "role": "Admin",
+    "id": 4
+  },
+  {
+    "name": "Kaloyan Stoyanov",
+    "role": "Admin",
+    "id": 1
+  },
+  {
+    "name": "Super Admin",
+    "role": "Super Admin",
+    "id": 3
+  },
+  {
+    "name": "Test Test",
+    "role": "Client",
+    "id": 2
+  }
+]

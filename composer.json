@@ -1,0 +1,55 @@
+{
+    "name": "support/api",
+    "description": "API for the Support app backend",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Supp\\": "src",
+            "Tests\\": "tests"
+        }
+    },
+    "require": {
+        "league/container": "^4.2",
+        "league/route": "^5.1",
+        "hphio/api-cli": "*",
+        "hphio/util": "^1.2",
+        "laminas/laminas-diactoros": "^2.8",
+        "laminas/laminas-httphandlerrunner": "^2.1",
+        "ext-pdo": "*",
+        "hphio/farret": "^1",
+        "vlucas/valitron": "^1.4",
+        "ext-imagick": "^3.4",
+        "clegginabox/pdf-merger": "dev-master",
+        "setasign/fpdi": "^2.3",
+        "league/config": "^1.1",
+        "league/climate": "^3.8",
+        "ext-json": "*",
+        "ext-fileinfo": "*",
+        "ext-intl": "*",
+        "ext-posix": "*",
+        "fpdf/fpdf": "*",
+        "mpdf/mpdf": "^8.1",
+        "ext-zip": "*",
+        "tecnickcom/tcpdf": "^6.5",
+        "php-amqplib/php-amqplib": "^3.5",
+        "hphio/queryrunner": "^1.0",
+        "hph/userauth": "dev-main",
+        "geoip2/geoip2": "^2.13",
+        "phpoffice/phpspreadsheet": "^1.28"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.4",
+        "phpmd/phpmd": "@stable"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@git.hph.io:hph/queryrunner.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@git.hph.io:hph/userauth.git"
+        }
+    ]
+}

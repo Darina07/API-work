@@ -1,0 +1,18 @@
+{
+    "name": "hphio/api-cli",
+    "description": "Implements a CLI back-end for managing web apps and APIs",
+    "require": {
+        "league/container": ">=4.2",
+      "ext-pdo": "*",
+      "ext-readline": "*",
+        "league/climate": "^3.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "hphio\\cli\\": "src"
+      }
+    }
+}

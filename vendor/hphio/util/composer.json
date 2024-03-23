@@ -1,0 +1,34 @@
+{
+  "name": "hphio/util",
+  "description": "Various convenience and utility classes",
+  "license": "proprietary",
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  },
+  "autoload-dev": {
+    "psr-0": {
+      "tests\\": "tests"
+    },
+    "psr-4": {
+      "tests\\": "tests"
+    }
+  },
+  "autoload": {
+    "psr-0": {
+      "hphio\\util\\": "src"
+    },
+    "psr-4": {
+      "hphio\\util\\": "src"
+    }
+  },
+  "require": {
+    "league/container": "^4.2",
+    "hphio/queryrunner": "^1.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@git.hph.io:hph/queryrunner.git"
+    }
+  ]
+}
